@@ -9,7 +9,7 @@ Atividade para fixação de todos os conceitos sobre expressões aprendidos em a
 
 
 
-![Atividade](C:\workspace-eclipse\mjv-grupo04-expressions\img\atvidade.png)
+![Atividade](https://github.com/fabiopenha/mjv-grupo04-expressions/blob/master/img/atvidade.png?raw=true)
 
 ## Resultado final
 
