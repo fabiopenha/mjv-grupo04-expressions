@@ -13,5 +13,5 @@ Atividade para fixação de todos os conceitos sobre expressões aprendidos em a
 
 ## Resultado final
 
-![resultado](C:\workspace-eclipse\mjv-grupo04-expressions\img\cupom.png)
+![resultado](https://github.com/fabiopenha/mjv-grupo04-expressions/blob/master/img/cupom.png?raw=true)
 
